@@ -1,6 +1,6 @@
 # Hot Potato
 
-An original browser swipe-to-slice game. Slice the potatoes, never the grenades, and keep the hot
+An original browser swipe-to-slice game. Slice the potatoes and keep the hot
 potato in foil in the air for a bonus. Plain JavaScript and canvas, no build step, installs as an
 app and plays offline. MIT licensed.
 
